@@ -86,7 +86,7 @@ I work mainly with:
 
 * GitHub: [https://github.com/GK-The-Coder](https://github.com/GK-The-Coder)
 * LinkedIn: [https://www.linkedin.com/in/ganesh-karadkar/](https://www.linkedin.com/in/ganesh-karadkar/)
-* Portfolio: [https://https://gk-the-coder-portfolio.vercel.app/](https://https://gk-the-coder-portfolio.vercel.app/)
+* Portfolio: [https://https://gk-the-coder-portfolio.vercel.app/](https://gk-the-coder-portfolio.vercel.app/)
 * Email: [kardakarganesh797@gmail.com](mailto:karadkarganesh797@gmail.com)
 
 ---
